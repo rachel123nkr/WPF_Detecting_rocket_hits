@@ -1,0 +1,191 @@
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.dll.config
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\WPF_Detecting_rocket_hits.exe.config
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\WPF_Detecting_rocket_hits.exe
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\WPF_Detecting_rocket_hits.pdb
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\BE.exe
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\BL.exe
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Charts.WPF.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Dragablz.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\EntityFramework.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\EntityFramework.SqlServer.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\LiveCharts.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\LiveCharts.Wpf.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\MaterialDesignColors.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\DAL.exe
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.MachineLearning.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.Math.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.Statistics.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\MetadataExtractor.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Newtonsoft.Json.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.Math.Core.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\XmpCore.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\BE.pdb
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\BE.exe.config
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\BL.pdb
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\BL.exe.config
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Dragablz.pdb
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Dragablz.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\EntityFramework.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\EntityFramework.SqlServer.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\LiveCharts.pdb
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\LiveCharts.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\LiveCharts.Wpf.pdb
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\LiveCharts.Wpf.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\MaterialDesignColors.pdb
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\DAL.pdb
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\DAL.exe.config
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.MachineLearning.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.Math.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.Statistics.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\MetadataExtractor.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Newtonsoft.Json.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.Math.Core.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\XmpCore.xml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\PL.csprojAssemblyReference.cache
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\MainWindow.g.cs
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\AddFall.g.cs
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\AddReport.g.cs
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\graphUC.g.cs
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\Login.g.cs
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\MapsUC.g.cs
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\oneRep.g.cs
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\showReportToFall.g.cs
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\Window1.g.cs
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\App.g.cs
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\WPF_Detecting_rocket_hits_MarkupCompile.cache
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\WPF_Detecting_rocket_hits_MarkupCompile.lref
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\App.baml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\MainWindow.baml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\AddFall.baml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\AddReport.baml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\graphUC.baml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\Login.baml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\MapsUC.baml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\oneRep.baml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\showReportToFall.baml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\Window1.baml
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\WPF_Detecting_rocket_hits.g.resources
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\PL.Properties.Resources.resources
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\PL.csproj.GenerateResource.cache
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\PL.csproj.CopyComplete
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\WPF_Detecting_rocket_hits.exe
+C:\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\WPF_Detecting_rocket_hits.pdb
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.dll.config
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\WPF_Detecting_rocket_hits.exe.config
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\WPF_Detecting_rocket_hits.exe
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\WPF_Detecting_rocket_hits.pdb
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\BE.exe
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\BL.exe
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Charts.WPF.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Dragablz.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\EntityFramework.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\LiveCharts.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\MaterialDesignColors.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\DAL.exe
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.MachineLearning.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.Math.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.Statistics.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\MetadataExtractor.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.Math.Core.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\XmpCore.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\BE.pdb
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\BE.exe.config
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\BL.pdb
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\BL.exe.config
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Dragablz.pdb
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Dragablz.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\EntityFramework.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\LiveCharts.pdb
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\LiveCharts.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\MaterialDesignColors.pdb
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\DAL.pdb
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\DAL.exe.config
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.MachineLearning.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.Math.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.Statistics.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\MetadataExtractor.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\Accord.Math.Core.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\XmpCore.xml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\MainWindow.g.cs
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\AddFall.g.cs
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\AddReport.g.cs
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\graphUC.g.cs
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\Login.g.cs
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\MapsUC.g.cs
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\oneRep.g.cs
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\showReportToFall.g.cs
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\Window1.g.cs
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\App.g.cs
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\WPF_Detecting_rocket_hits_MarkupCompile.cache
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\WPF_Detecting_rocket_hits_MarkupCompile.lref
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\App.baml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\MainWindow.baml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\AddFall.baml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\AddReport.baml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\graphUC.baml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\Login.baml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\MapsUC.baml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\oneRep.baml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\showReportToFall.baml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\View\Window1.baml
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\WPF_Detecting_rocket_hits.g.resources
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\PL.Properties.Resources.resources
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\PL.csproj.CopyComplete
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\WPF_Detecting_rocket_hits.exe
+C:\Users\rachel\rachel folder\שנה ג\סמסטר ב\מערכות חלונאיות\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\WPF_Detecting_rocket_hits\obj\Debug\WPF_Detecting_rocket_hits.pdb
